@@ -1,0 +1,12 @@
+#pragma once
+
+enum SWITCHER
+{
+	ADD_ITEM,
+	DELETE_ALL_ITEM,
+	DELETE_ITEM,
+	EXIT_SYS,
+	FIND_ITEM,
+	MODIFY_ITEM,
+	SHOW_ITEM
+};
