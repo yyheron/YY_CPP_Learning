@@ -6,6 +6,7 @@
 #define JoinTimeLength 11
 #define CompanyPersonMaxNumber 500
 
+#define PersonIdLength 8
 class CPerson
 {
 public:

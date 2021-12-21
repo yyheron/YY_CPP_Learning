@@ -1,2 +1,5 @@
 ﻿  CBook.cpp
-  BookManagementSystem.vcxproj -> D:\repository\CPP_Learning\BookManagementSystem\x64\Debug\BookManagementSystem.exe
+d:\repository\cpp_learning\bookmanagementsystem\bookmanagementsystem\cbook.cpp(59): error C3867: “CPerson::setPerson”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\repository\cpp_learning\bookmanagementsystem\bookmanagementsystem\cbook.cpp(59): error C2563: 在形参表中不匹配
+d:\repository\cpp_learning\bookmanagementsystem\bookmanagementsystem\cbook.cpp(59): error C2568: “>>”: 无法解析函数重载
+  d:\repository\cpp_learning\bookmanagementsystem\bookmanagementsystem\cbook.cpp(59): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
